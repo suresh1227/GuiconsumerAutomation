@@ -1,0 +1,18 @@
+Smart Phone or tabletfail2018-01-14 14:21:53
+consumer4.0 application Launchingpass2018-01-14 14:22:27
+Notification verificationfail2018-01-14 14:26:55
+contextual helpfail2018-01-14 14:30:48
+EicherTestpass2018-01-14 14:42:16
+verifiying Custom Scan in home Tabpass2018-01-15 08:36:43
+verifiying Custom Scan in home Tabpass2018-01-15 08:46:40
+verifiying Custom Scan in home Tabpass2018-01-15 09:10:19
+verifiying Home Run Scanpass2018-01-15 09:13:26
+verifiying Home Run Scanpass2018-01-15 09:54:14
+Verifiying Home Updates home Tabpass2018-01-15 10:16:31
+Verifying Mac Security quarantine home Tabpass2018-01-15 10:18:10
+Verifying Mac Security quarantine home Tabpass2018-01-15 10:27:20
+Verifying Mac Security quarantine home Tabpass2018-01-15 10:31:39
+Verifying Mac Security Historypass2018-01-15 10:41:03
+Verifying Mac Security Historypass2018-01-15 10:43:07
+Verifying Mac Security Historypass2018-01-15 10:47:55
+verifying global settingspass2018-01-15 10:51:13
